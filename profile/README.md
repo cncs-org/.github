@@ -26,9 +26,9 @@ Interested in our work? Here's how to get started:
 We welcome contributions from the community! Check out our [contribution guidelines](Contributing.md) to learn how you can get involved.
 
 Areas where we especially need help:
-- the authentication protocols
-- the automatic change of the primary node in case of system failure
-- the API
+- authentication protocols
+- automatic change of the primary node in case of system failure
+- API
 
 ## 📊 Organization Stats
 
