@@ -18,8 +18,6 @@ Thank you for your interest in contributing to CNCS! This document outlines the 
   - [Style Guides](#style-guides)
     - [Git Commit Messages](#git-commit-messages)
     - [Code Style](#code-style)
-  - [Community](#community)
-  - [Recognition](#recognition)
 
 ## Code of Conduct
 
@@ -94,10 +92,7 @@ Documentation improvements are always welcome:
 
 ### Git Commit Messages
 
-- Use the present tense ("Add feature" not "Added feature")
-- Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
-- Limit the first line to 72 characters
-- Reference issues and PRs after the first line
+- Limit the first line to 80 characters
 
 ### Code Style
 
@@ -108,21 +103,11 @@ Each project may have its own style guide. Generally:
 - Write tests for new features
 - Update documentation for changes
 
-## Community
+<!--## Community
 
 - Join our [community chat](link-to-chat)
 - Follow us on [Twitter](link-to-twitter)
 - Subscribe to our [newsletter](link-to-newsletter)
-
-## Recognition
-
-Contributors are recognized in several ways:
-- Listed in the project's README
-- Mentioned in release notes
-- Potential invitation to the organization for consistent contributors
-
----
+-->
 
 Thank you for contributing to CNCS projects! Your efforts help make our community better for everyone.
-
-_Last updated: 2025-08-25 by [@leonrieger](https://github.com/leonrieger)_

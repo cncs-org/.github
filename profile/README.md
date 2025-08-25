@@ -23,38 +23,32 @@ Interested in our work? Here's how to get started:
 
 ## 👥 Contributing
 
-We welcome contributions from the community! Check out our [contribution guidelines](link-to-contribution-guide) to learn how you can get involved.
+We welcome contributions from the community! Check out our [contribution guidelines](Contributing.md) to learn how you can get involved.
 
 Areas where we especially need help:
-- [Area 1]
-- [Area 2]
-- [Area 3]
+- the authentication protocols
+- the automatic change of the primary node in case of system failure
+- the API
 
 ## 📊 Organization Stats
 
-- Founded: [Year]
-- Active Members: [Number]
-- Open Source Projects: [Number]
+- Founded: 2025
+- Active Members: 1
+- Open Source Projects: 0 (this will change in the near future)
 
-## 🌐 Connect With Us
+<!--## 🌐 Connect With Us
 
 - [Website](https://your-website.com)
 - [Twitter](https://twitter.com/your-handle)
 - [LinkedIn](https://linkedin.com/company/your-company)
 - [Blog](https://your-blog.com)
-
+-->
 ## 👨‍💻 Maintainers
 
 The CNCS organization is currently maintained by:
 
 - [@leonrieger](https://github.com/leonrieger)
-- [Other maintainer names]
 
 ## 📜 License
 
-Unless otherwise specified, our projects are licensed under [license name]. See individual repositories for specific licensing information.
-
----
-
-Last updated: 2025-08-25
-```
+Unless otherwise specified, our projects are licensed under GNU GPL V2.0. See individual repositories for specific licensing information.
