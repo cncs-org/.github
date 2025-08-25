@@ -4,7 +4,7 @@
 <br>
 
 ## About Us
-CNCS (**C**omputer **N**umerical **C**ontrol **S**ystems) is dedicated to develop open-source industrial control applications and frameworks. We build and maintain open source projects that can replace certain SaaS alternatives.
+CNCS (**C**omputer **N**umerical **C**ontrol **S**ystems) is dedicated to develop open-source industrial control applications and frameworks. We build and maintain open source projects that can be used instead of certain SaaS alternatives.
 
 ## 🚀 Our Projects
 
