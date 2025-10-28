@@ -52,4 +52,8 @@ The CNCS organization is currently maintained by:
 
 ## 📜 License
 
-Unless otherwise specified, our projects are licensed under GNU GPL V2.0. See individual repositories for specific licensing information.
+Unless otherwise specified, our projects are licensed under:
+- [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.txt) for the software part
+- [CERN-OHL-S](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/819d71bea3458f71fba6cf4fb0f2de6b/cern_ohl_s_v2.txt) for any hardware part (e.g. devboards, PLC-boards)
+
+See individual repositories for specific licensing information.
