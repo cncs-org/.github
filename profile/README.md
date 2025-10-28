@@ -4,14 +4,15 @@
 <br>
 
 ## About Us
-CNCS (**C**omputer **N**umerical **C**ontrol **S**ystems) is dedicated to develop open-source industrial control applications and frameworks. We build and maintain open source projects that can be used instead of certain SaaS alternatives.
+CNCS (**C**omputer **N**umerical **C**ontrol **S**ystems) is dedicated to develop open-source industrial control applications and frameworks. We build and maintain open source projects that can be used for remote controlling PLCs.
 
 ## 🚀 Our Projects
 
-<!--Here are some of our key projects:-->
-Here is our key project:
+Here are our key project:
 
 - **Node** - the highly redundant and natively encrypted information exchange system
+- **EndNode** - the driver for PLC systems
+- **PLC** - the programming environment
 
 ## 🌱 Getting Started
 
@@ -27,8 +28,8 @@ We welcome contributions from the community! Check out our [contribution guideli
 
 Areas where we especially need help:
 - authentication protocols
-- automatic change of the primary node in case of system failure
 - API
+- GUI design
 
 ## 📊 Organization Stats
 
